@@ -104,7 +104,12 @@
   code: BTN
   flag: https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/btn.svg
   emoji: 🇧🇹
-- name: Botswana pula
+- name: Bosnia-Herzegovina Convertible Mark
+  symbol: KM
+  code: BAM
+  flag: https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/bam.svg
+  emoji: 🇧🇦
+  name: Botswana pula
   symbol: P
   code: BWP
   flag: https://raw.githubusercontent.com/Lissy93/currency-flags/master/assets/flags_svg/bwp.svg
